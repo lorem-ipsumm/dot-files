@@ -6,10 +6,10 @@ i am absolutely not in fault if the dot files unfortunately break something or s
 
 # fonts used
 
-Iosevka
+ - Iosevka
 
-Noto Fonts CJK
+ - Noto Fonts CJK
 
-siji
+ - siji
 
-Font Awesome
+ - Font Awesome
