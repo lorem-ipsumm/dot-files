@@ -1,0 +1,61 @@
+URxvt.font: xft:Iosevka:style=regular:size=10
+URxvt.scrollBar: false
+URxvt.internalBorder: 15
+URxvt.cursorBlink: 1
+URxvt.cursorUnderline: 1
+
+! special
+*.foreground:   #c9c2bd
+*.background:   #0c1012
+*.cursorColor:  #c9c2bd
+
+! black
+*.color0:       #0c1012
+*.color8:       #273539
+
+! red
+*.color1:       #f47979
+*.color9:       #ffa1a1
+
+! green
+*.color2:       #8aee80
+*.color10:      #8dff85
+
+! yellow
+*.color3:       #ccae98
+*.color11:      #dfc4af
+
+! blue
+*.color4:       #7a98b4
+*.color12:      #92bde5
+
+! magenta
+*.color5:       #c5a1d0
+*.color13:      #da96ef
+
+! cyan
+*.color6:       #8fbfd0
+*.color14:      #aad5e2
+
+! white
+*.color7:       #b9b4b0
+*.color15:      #c9c2cd
+
+
+
+!-- Xft settings -- !
+
+Xft.antialias: 1
+
+Xft.hinting: 1
+
+Xft.autohint: 0
+
+Xft.hintstyle: hintslight
+
+Xft.rgba: rgb
+
+Xft.lcdfilter: lcddefault
+
+Xft.dpi: 90
+
