@@ -7,6 +7,9 @@ i am absolutely not in fault if the dot files unfortunately break something or s
 # fonts used
 
 Iosevka
+
 Noto Fonts CJK
+
 siji
+
 Font Awesome
