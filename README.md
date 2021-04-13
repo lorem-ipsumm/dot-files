@@ -1,2 +1,2 @@
 # dot-files
-bspwm rice dots
+extremely messy bspwm rice dots
