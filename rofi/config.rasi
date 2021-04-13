@@ -1,6 +1,0 @@
-configuration {
- modi: "window,drun,ssh,combi";
- font: "Iosevka 14";
- combi-modi: "window,drun,ssh";
-}
-@import "~/.config/rofi/colors-rofi-dark"
